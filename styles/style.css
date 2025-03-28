@@ -166,6 +166,7 @@ ol {
   line-height: 16.2px;
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 4;
+  line-clamp: 4;
   size: 18px;
 }
 
